@@ -1,4 +1,5 @@
 # Devspace demo setup
+`Vangelis Tripolitakis` - `vtripolitakis@__NO_SPAM__gmail.com`
 
 ## Set up context and namespace
 `devspace use context your_kubernetes_context`
